@@ -1,0 +1,55 @@
+#comment, #commentSection, #commentSectionHeader, label {
+    width: 40%;
+    padding:10px;
+    margin-left: 10%;
+    margin-right: 50%;
+    border-radius: 5px;
+}
+input {
+    margin-right: 50%;
+    margin-left: 10%;
+}
+#comment, #commentSection  {
+    border: 1px solid black;
+    margin-bottom:20px;
+}
+#comments {
+    border: 1px solid grey;
+}
+.navbar-brand {
+    margin: 20px;
+}
+iframe {
+    margin: 30px 10% 0 10%;
+}
+.random {
+    margin-bottom: 10px;
+    margin-left: 75%;
+    font-size: 32px;
+    height: 35px;
+    width: 15%;
+    border-radius: 5px;
+}
+#rateme {
+    font-size:32px;
+    margin-left: 10%;
+}
+#voteBalance {
+    margin-left: 10%;
+    font-size: 25px;
+}
+.videoAndRating {
+    border: 1px solid black;
+    width: 95%;
+    margin: 2.5% 2.5% 2.5% 2.5%;
+    border-radius: 5px;
+}
+.buttons {
+    margin-left: 2.5%;
+    display: inline;
+    border: 1px solid black;
+}
+.btn-group>.btn:first-child {
+    margin-left: 85%;
+}
+

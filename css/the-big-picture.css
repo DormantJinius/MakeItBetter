@@ -1,0 +1,80 @@
+@import url(http://fonts.googleapis.com/css?family=Allura);
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(../images/RandomCollage3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  ;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.Absolute-Center {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 125px;
+    right: 0;
+    width: 60%
+}
+
+h1 {
+    font-family: "Allura", cursive;
+    font-size: 46px;
+    color: #fcfd97;
+    text-shadow: 2px 1px #274255;
+
+}
+
+.btn-lg {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.about {
+    background-image: url(../BlueWhiteGradient.jpeg);
+
+}
+
+.upload {
+    background-image: url(../GreenWhiteGradient.png);
+}
+
+.form-control {
+    background-color: #dce1fa;
+}
+
+.btn-group-sm .Absolute-Center {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 175px;
+}
+
+.video-player-wrapper {
+    text-align: center;
+}
+
+iframe {
+    height: 80%;
+    width: 100%;
+}
+
+.inspire {
+    background-image: url("../images/GreenWhiteGradient.png");
+}
